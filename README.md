@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Frontend Engineer with expertise in React, TypeScript, and NextJs, I have spearheaded the development of B2B SaaS<br>platforms, optimized frontend performance, and resolved user complaints to improve customer satisfaction. With a BSc. in<br>Computer Science and a PGD in Web Development, I am a highly skilled software developer with a proven track record of<br>generating revenue for clients.
+Software developer with expertise in react, and everything javascript. Currently open for frontend developer role 
 
 
 ## 🌐 Socials:
