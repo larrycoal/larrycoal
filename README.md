@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer with expertise in react and everything javascript. Currently open for frontend developer role 
+Software developer with expertise in react and everything javascript. Currently open for fullstack developer role 
 
 
 ## 🌐 Socials:
